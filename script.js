@@ -1,5 +1,5 @@
 function shortcut(s1, s2) {
- if(s1.length===0||s2.length===0){
+ if(s1.length==0||s2.length==0){
 	 return '';
 
 	 return s1[0]+s2[0];
